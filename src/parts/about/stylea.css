@@ -1,9 +1,9 @@
-/* AboutMe.css */
+
 
 .about-me-section {
   
-  color: #fdfafa; /* Text color */
-  padding: 100px 0; /* Adjust padding as needed */
+  color: #fdfafa; 
+  padding: 100px 0; 
   text-align: center;
  
 }
@@ -15,12 +15,12 @@
 
 .h22 {
   font-size: 40px;
-  text-decoration: underline; /* Section title font size */
+  text-decoration: underline; 
 }
 
 p {
-  font-size: 18px; /* Paragraph font size */
-  margin: 0px 0; /* Add space between paragraphs */
+  font-size: 18px; 
+  margin: 0px 0;
 }
 
 .intro {
@@ -28,7 +28,7 @@ p {
   color: #ffffff;
   margin: 0px;
   padding: 20px;
-  background-color: transparent; /* Set the background to transparent */
+  background-color: transparent;
   border: 1px solid #ccc;
   border-radius: 10px;
   text-align: center;
