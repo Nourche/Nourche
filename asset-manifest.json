@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Nourche/static/css/main.4381ca0a.css",
+    "main.css": "/Nourche/static/css/main.fac92cfc.css",
     "main.js": "/Nourche/static/js/main.1f834ecd.js",
     "static/media/school.svg": "/Nourche/static/media/school.a41655f6d5350015803153c7410cef6a.svg",
     "index.html": "/Nourche/index.html",
     "static/media/work.svg": "/Nourche/static/media/work.3710b62484ed638074240e99317c6c60.svg",
-    "main.4381ca0a.css.map": "/Nourche/static/css/main.4381ca0a.css.map",
+    "main.fac92cfc.css.map": "/Nourche/static/css/main.fac92cfc.css.map",
     "main.1f834ecd.js.map": "/Nourche/static/js/main.1f834ecd.js.map"
   },
   "entrypoints": [
-    "static/css/main.4381ca0a.css",
+    "static/css/main.fac92cfc.css",
     "static/js/main.1f834ecd.js"
   ]
 }
