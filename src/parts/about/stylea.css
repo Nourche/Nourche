@@ -1,0 +1,47 @@
+/* AboutMe.css */
+
+.about-me-section {
+  
+  color: #fdfafa; /* Text color */
+  padding: 100px 0; /* Adjust padding as needed */
+  text-align: center;
+ 
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.h22 {
+  font-size: 40px;
+  text-decoration: underline; /* Section title font size */
+}
+
+p {
+  font-size: 18px; /* Paragraph font size */
+  margin: 0px 0; /* Add space between paragraphs */
+}
+
+.intro {
+  font-size: 18px;
+  color: #ffffff;
+  margin: 0px;
+  padding: 20px;
+  background-color: transparent; /* Set the background to transparent */
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  line-height: 2;
+}
+
+.intro::first-letter {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.intro:hover {
+  background-color: #222225;
+  transition: background-color 0.3s;
+}

@@ -1,0 +1,38 @@
+/* PortfolioWelcome.css */
+
+.welcome-section {
+ /*  background-color: #333; Background color */
+  color: #fff; /* Text color */
+  padding: 170px 0; /* Adjust padding as needed */
+  text-align: center;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 36px; /* Title font size */
+}
+
+p {
+  font-size: 18px; /* Paragraph font size */
+  margin-top: 20px; /* Add space between title and paragraph */
+}
+
+.text{
+  font-size: 45px;
+}
+.highlight{
+  color: blue;
+  font-weight: bold;
+}
+.welcome{
+  font-size: 21px; /* Paragraph font size */
+  margin-top: 20px;
+}
+
+
+
+

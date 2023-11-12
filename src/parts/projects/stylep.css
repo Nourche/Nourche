@@ -1,0 +1,44 @@
+/* styles.css */
+
+/* styles.css */
+
+.border-box {
+  border: 2px solid #333; /* Border style and color */
+  padding: 20px; /* Padding around the box */
+  width: 200px; /* Set the width of the box */
+  text-align: center;
+  margin: 20px; /* Add spacing around the box */
+  box-sizing: border-box; /* Include padding and border in the box width */
+}
+
+.inner-button {
+  background-color: #0073e6; /* Button background color */
+  color: #fff; /* Button text color */
+  border: none; /* Remove button border */
+  padding: 10px 20px; /* Button padding */
+  font-size: 16px; /* Button font size */
+  cursor: pointer; /* Add cursor pointer on hover */
+}
+
+.inner-button:hover {
+  background-color: #0058a3; /* Button background color on hover */
+}
+
+.containerr{
+ 
+  padding: 50px;
+  margin: 100px;
+
+max-width: 800px;
+  margin: 0 auto;
+}
+
+
+.p{margin:"30px"}
+
+.title {
+  font-size: 40px;
+  text-align: center;
+  margin: 70px;
+  color: aliceblue;
+}
