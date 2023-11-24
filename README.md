@@ -1,7 +1,6 @@
 ![](https://github.com/Nourche/Nourche/blob/main/an-chat.gif)
 
 ### Hi there 👋, my name is Nour
-Graphic designer | mobile dev | front-end dev
 
 - 🌱 I’m currently learning js 
 - 📫 How to reach me: nour3che@gmail.com 
